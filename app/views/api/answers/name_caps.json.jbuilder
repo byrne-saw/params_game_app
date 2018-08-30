@@ -1,0 +1,1 @@
+json.cap_sized_name = @capital_name
